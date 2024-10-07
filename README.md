@@ -29,3 +29,6 @@ The report includes high-level metrics, client monitoring, and project monitorin
 
 4. Interact with Visuals: Hover over any data point in the charts to view more detailed information through tooltips. You can also click on certain visuals to drill down further into the data.
 
+# REFERENCE LIST
+1. One Magic Minute, 2023. How To Check Null Values in Dataset Using Power BI ??? | Power BI | Data Analysis Using Power BI [video online]. Available at: https://youtu.be/0vy6AY9jX3g [Accessed 6 October 2024].
+2. 
